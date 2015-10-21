@@ -9,6 +9,8 @@
 
 get_header(); ?>
 
+
+<?php // THIS IS EXTRA TEXT ?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
